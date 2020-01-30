@@ -1,0 +1,23 @@
+
+  a:hover {
+    text-decoration: underline;
+    color: red;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+  h1 {
+    font-variant: small-caps;
+    text-align: center
+  }
+
+  h2 {
+    font-variant: small-caps;
+  }
+
+  body{
+    font-family: Optima, sans-serif
+  }
+

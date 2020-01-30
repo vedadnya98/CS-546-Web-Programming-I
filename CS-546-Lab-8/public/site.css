@@ -1,0 +1,62 @@
+
+  a:hover {
+    text-decoration: underline;
+    color: red;
+  }
+
+  .search_box{
+    width: 100%;
+    padding: 12px 20px;
+  }
+
+  dl{
+    color: #4CAF50 
+  }
+
+  .submit_button {
+    border: none;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    align-self: center;
+    border: 2px solid #555555;
+  }
+
+  .submit_button:hover {
+    background-color: #555555;
+    color: white;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+  h1 {
+    font-variant: small-caps;
+    text-align: center;
+  }
+
+  h2 {
+    font-variant: small-caps;
+  }
+
+  p{
+    color: #4CAF50 
+  }
+  
+  label{
+    color: #000000
+  }
+
+  body{
+    font-family: Optima, sans-serif;
+    background-color: #F1F1F1;
+  }
+
